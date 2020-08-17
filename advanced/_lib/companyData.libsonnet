@@ -1,7 +1,7 @@
 local companies = [
   "The red company",
   "Amber inc",
-  "Achivement org",
+  "Achievement org",
   "The green way",
   "Teal living"
 ];
@@ -9,7 +9,7 @@ local companies = [
 local companyEmails = [
   "theredcompany.com",
   "amber.com",
-  "achivement.org",
+  "achievement.org",
   "tgw.com",
   "tealliving.com"
 ];

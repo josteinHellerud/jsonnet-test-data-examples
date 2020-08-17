@@ -4,7 +4,7 @@ local companyData = import 'companyData.libsonnet';
 {
   transaction: [
     {
-      reciver: {
+      receiver: {
         id: std.mod(index, (companyData.companiesLength()-1))+''+std.mod(index, (userData.firstNamesLength()-1))+''+std.mod(index, (userData.lastNamesLength()-1))
       },
       sender: {
