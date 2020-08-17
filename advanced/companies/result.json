@@ -1,0 +1,29 @@
+{
+   "companies": [
+      {
+         "id": 0,
+         "name": "The red company",
+         "orgNumber": "84147098480"
+      },
+      {
+         "id": 1,
+         "name": "Amber inc",
+         "orgNumber": "90929742682"
+      },
+      {
+         "id": 2,
+         "name": "Achivement org",
+         "orgNumber": "14112000805"
+      },
+      {
+         "id": 3,
+         "name": "The green way",
+         "orgNumber": "75680249530"
+      },
+      {
+         "id": 4,
+         "name": "Teal living",
+         "orgNumber": "95892427466"
+      }
+   ]
+}

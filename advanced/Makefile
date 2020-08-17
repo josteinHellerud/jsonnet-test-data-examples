@@ -1,0 +1,2 @@
+json:
+	./make-json.sh
